@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.env
+instance/
+uploads/
+
+# Node / React
+node_modules/
+dist/
+build/
+.env.local
