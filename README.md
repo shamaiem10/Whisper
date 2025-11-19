@@ -71,3 +71,12 @@ The frontend is in a separate repo: Whisper Frontend. Clone it and run:
 npm install
 npm run dev
 ```
+
+
+## Tech Stack
+
+Backend: Python, Flask, SQLite, JWT, Flask-CORS
+
+Frontend: React, TypeScript, TailwindCSS
+
+AI Integration: HuggingFace Qwen Model for travel insights
