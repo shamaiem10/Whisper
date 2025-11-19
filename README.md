@@ -1,6 +1,8 @@
 # Whisper
 
 Whisper is an AI-powered travel memory tracker and recommendation system. It allows users to log their travel experiences, track emotions and vibes, and get AI-generated insights and suggestions for new travel destinations.
+![Whisper Demo](travelani.gif)
+
 
 ---
 
